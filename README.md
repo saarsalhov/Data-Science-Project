@@ -1,2 +1,17 @@
-# Data-Science-Project
-Final project in data sciense project include all steps, using Python programing language 
+# Data-Science-final-project
+## Apartments Prices data mining and machine learning Final project -Saar and Shiran
+![image](https://user-images.githubusercontent.com/86562519/146004164-f6ef2656-4286-4014-8fd5-85f0d1208334.png)
+![image](https://user-images.githubusercontent.com/86562519/146004215-9def49c9-a4c8-496e-b2da-03f6253f8bec.png)
+![image](https://user-images.githubusercontent.com/86562519/146004269-03a16384-b593-42cd-a061-4afd1cc13cd8.png)
+![image](https://user-images.githubusercontent.com/86562519/146004321-49939a36-d0d9-495b-b79b-a5806736aae5.png)
+![image](https://user-images.githubusercontent.com/86562519/146004553-fda5da5d-6655-4c99-93a3-0787e7c8829b.png)
+![image](https://user-images.githubusercontent.com/86562519/146004608-5bc40821-42e8-43de-b73c-137f5749c0a6.png)
+![image](https://user-images.githubusercontent.com/86562519/146004655-dc95937c-9d1b-444f-a558-872a00b0b056.png)
+![image](https://user-images.githubusercontent.com/86562519/146004691-7f06282b-9e46-46c0-8d26-275f02c3393b.png)
+![image](https://user-images.githubusercontent.com/86562519/146004739-996a6e5c-2bef-4bca-8d9c-1a1a9590a059.png)
+![image](https://user-images.githubusercontent.com/86562519/146004780-ce4bad73-e379-4871-b031-e79bf9d5f09e.png)
+![image](https://user-images.githubusercontent.com/86562519/146004833-4a3fb29b-0544-4926-8467-fbda4d6067f1.png)
+![image](https://user-images.githubusercontent.com/86562519/146004876-10414705-4bde-4eb0-bff5-81140279125a.png)
+![image](https://user-images.githubusercontent.com/86562519/146004936-6c3c73ed-d740-46e9-8e0d-dbe3a2fe5761.png)
+![image](https://user-images.githubusercontent.com/86562519/146004972-79eb87ea-f599-4426-8cc2-1f3f8d77a348.png)
+![image](https://user-images.githubusercontent.com/86562519/146005024-bb9083e2-8d05-4b2e-b4c4-5166ad1bfb04.png)
